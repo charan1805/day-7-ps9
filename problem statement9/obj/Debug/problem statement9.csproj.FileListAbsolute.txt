@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\bin\Debug\problem statement9.exe.config
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\bin\Debug\problem statement9.exe
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\bin\Debug\problem statement9.pdb
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\obj\Debug\problem statement9.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\obj\Debug\problem statement9.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\obj\Debug\problem statement9.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\obj\Debug\problem statement9.exe
+E:\my details\personal\c sharp\day7\problem statement9\problem statement9\obj\Debug\problem statement9.pdb
